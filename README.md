@@ -4,7 +4,7 @@
 
 **Web sites**
 
-Researchgate:https://www.researchgate.net/profile/Huaichao_Luo?ev=hdr_xprf&_sg=BbPwX7HIuphEgOFRWPmHtS3K8DMwT_Ue2eoLh7MtW4Lzvl2bzop-_GX0wr5ffGlzuQgF4BNzLt1s_4_GhYb_52V3
+Researchgate: https://www.researchgate.net/profile/Huaichao_Luo?ev=hdr_xprf&_sg=BbPwX7HIuphEgOFRWPmHtS3K8DMwT_Ue2eoLh7MtW4Lzvl2bzop-_GX0wr5ffGlzuQgF4BNzLt1s_4_GhYb_52V3
 
 Google scholar：https://scholar.google.com/citations?user=XNKOGaIAAAAJ&hl=en
 
@@ -34,7 +34,7 @@ From 2019-present, Sichuan Cancer Research Institute (Sichuan Cancer Hospital), 
 
 2020-present, Sichuan Cancer Research Institute (Sichuan Cancer Hospital), Precision testing Center, Laboratory Research Group Leader.
 
-**scientific research projects**
+**Scientific research projects**
 
 Sichuan Provincial Health and Family Planning Commission Popularization Project "Platelet PF4 in the diagnosis of early non-small cell lung cancer "(17 PJ516);
 
