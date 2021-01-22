@@ -8,7 +8,7 @@ Luo Huaichao, Bachelor of Science, Master of Clinical medicine, PhD. in Biomedic
 
 **Educational background**
 
-\1. University has begun education
+\1. University education
 
 l  2008-2012, Chengdu University of Traditional Chinese Medicine, Medical Laboratory, Bachelor of Science;
 
