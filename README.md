@@ -5,7 +5,9 @@
 **Web sites**
 
 Researchgate:https://www.researchgate.net/profile/Huaichao_Luo?ev=hdr_xprf&_sg=BbPwX7HIuphEgOFRWPmHtS3K8DMwT_Ue2eoLh7MtW4Lzvl2bzop-_GX0wr5ffGlzuQgF4BNzLt1s_4_GhYb_52V3
+
 Google scholar：https://scholar.google.com/citations?user=XNKOGaIAAAAJ&hl=en
+
 Pubmed：https://pubmed.ncbi.nlm.nih.gov/?term=huaichao%20luo
 
 **Basic information**
@@ -34,7 +36,7 @@ From 2019-present, Sichuan Cancer Research Institute (Sichuan Cancer Hospital), 
 
 **scientific research projects**
 
-Sichuan Provincial Health and Family Planning Commission Popularization Project "Platelet PF4 in the diagnosis of early non-small cell lung cancer "(17 PJ516), responsible;
+Sichuan Provincial Health and Family Planning Commission Popularization Project "Platelet PF4 in the diagnosis of early non-small cell lung cancer "(17 PJ516);
 
 Research on the Early Diagnosis and Mechanism of Lung Cancer Based on the miRNA in TEPs Platelets of Cancer (CAYC18A27);
 
