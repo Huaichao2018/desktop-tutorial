@@ -1,14 +1,15 @@
 # Welcome to Luo HC Curriculum Vitae !
 
 ​                                                                                                                                       Edited by Huaichao Luo; February 2021
-
+**Web sites
+Researchgate:https://www.researchgate.net/profile/Huaichao_Luo?ev=hdr_xprf&_sg=BbPwX7HIuphEgOFRWPmHtS3K8DMwT_Ue2eoLh7MtW4Lzvl2bzop-_GX0wr5ffGlzuQgF4BNzLt1s_4_GhYb_52V3
+Google scholar：https://scholar.google.com/citations?user=XNKOGaIAAAAJ&hl=en
+Pubmed：https://pubmed.ncbi.nlm.nih.gov/?term=huaichao%20luo
 **Basic information**
 
 Luo Huaichao, Bachelor of Science, Master of Clinical medicine, PhD. in Biomedical Engineering, University of Electronic Science and Technology, Sichuan Cancer Hospital, technician of Precision testing Center, head of scientific research team. The main research directions are tumor molecular diagnosis and bioinformatics. 
 
 **Educational background**
-
-\1. University education
 
 l  2008-2012, Chengdu University of Traditional Chinese Medicine, Medical Laboratory, Bachelor of Science;
 
